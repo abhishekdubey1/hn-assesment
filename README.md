@@ -1,4 +1,4 @@
-## Deployed 
+## Deployed hackerr-news.vercel.app
 
 ## How to get started
 - Clone the repo
