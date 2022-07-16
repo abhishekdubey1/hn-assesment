@@ -8,6 +8,5 @@ export default function (fn = () => {}, delay = 300, depList = []) {
     return () => {
       clearTimeout(timer);
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [fn, ...depList]);
 }
